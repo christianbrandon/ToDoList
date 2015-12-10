@@ -32,14 +32,14 @@ namespace ToDoListWCF
         List<ToDo> GetToDoListByName(string name);
 
         [OperationContract]
-        [WebInvoke(UriTemplate = "ToDolist/add",
+        [WebInvoke(UriTemplate = "Add",
             RequestFormat = WebMessageFormat.Json,
             ResponseFormat = WebMessageFormat.Json,
             Method = "POST")]
         bool AddToDoList(ToDo toDoList);
 
         [OperationContract]
-        [WebInvoke(UriTemplate = "ToDolist/remove/{id}",
+        [WebInvoke(UriTemplate = "ToDolist/{id}/remove/",
             RequestFormat = WebMessageFormat.Json,
             ResponseFormat = WebMessageFormat.Json,
             Method = "DELETE")]
