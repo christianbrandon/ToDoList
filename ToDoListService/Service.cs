@@ -16,8 +16,6 @@ namespace ToDoListService
         // This is the DAL object, use it in your methods, don't create a new one.
         private static DAL repository = new DAL(connection);
 
-        private static string errorMessage;
-
         public static List<ToDo> GetToDoList()
         {
             // TODO: Add error checks. Datetime datatype is wierd when returned to to json
