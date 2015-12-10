@@ -24,9 +24,9 @@ namespace ToDoListWCF
             return toDoList;
         }
 
-        public List<ToDo> GetToDoListById(string id)
+        public List<ToDo> GetToDoListById(string name, string id)
         {
-            var toDoList = Service.GetToDoListById(id);
+            var toDoList = Service.GetToDoListById(name, id);
             return toDoList;
         }
 

@@ -20,13 +20,13 @@ namespace ToDoListWCF
         List<ToDo> GetToDoList();
 
         [OperationContract]
-        [WebGet(UriTemplate = "ToDoList/id/{id}",
+        [WebGet(UriTemplate = "ToDoList/{name}/{id}",
             RequestFormat = WebMessageFormat.Json,
             ResponseFormat = WebMessageFormat.Json)]
-        List<ToDo> GetToDoListById(string id);
+        List<ToDo> GetToDoListById(string name, string id);
 
         [OperationContract]
-        [WebGet(UriTemplate = "ToDoList/name/{name}",
+        [WebGet(UriTemplate = "ToDoList/{name}",
             RequestFormat = WebMessageFormat.Json,
             ResponseFormat = WebMessageFormat.Json)]
         List<ToDo> GetToDoListByName(string name);
@@ -39,7 +39,7 @@ namespace ToDoListWCF
         bool AddToDoList(ToDo toDoList);
 
         [OperationContract]
-        [WebInvoke(UriTemplate = "ToDolist/{id}/remove/",
+        [WebInvoke(UriTemplate = "ToDolist/{name}/{id}",
             RequestFormat = WebMessageFormat.Json,
             ResponseFormat = WebMessageFormat.Json,
             Method = "DELETE")]

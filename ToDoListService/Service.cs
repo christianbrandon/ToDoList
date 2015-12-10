@@ -23,11 +23,13 @@ namespace ToDoListService
             return toDoList;
         }
 
-        public static List<ToDo> GetToDoListById(string id)
+        public static List<ToDo> GetToDoListById(string name, string id)
         {
             // TODO: Add error checks. Datetime datatype is wierd when returned to to json
-            int idParsed = int.Parse(id);
-            var toDoList = repository.GetToDoListById(idParsed);
+            var idParsed = int.Parse(id);
+            var toDoByName = repository.GetToDoListByName(name);
+            var toDoList = toDoByName.Where(todoList => todoList.Id == idParsed).ToList();
+
             return toDoList;
         }
 
