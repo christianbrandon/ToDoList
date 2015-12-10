@@ -7,3 +7,12 @@ C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoListService\bin\Debug\ToDoList.pd
 C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoListService\obj\Debug\ToDoListService.csprojResolveAssemblyReference.cache
 C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoListService\obj\Debug\ToDoListService.dll
 C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoListService\obj\Debug\ToDoListService.pdb
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListService\bin\Debug\ToDoListService.dll
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListService\bin\Debug\ToDoListService.pdb
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListService\bin\Debug\ToDoList.dll
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListService\bin\Debug\ToDoListRepository.dll
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListService\bin\Debug\ToDoListRepository.pdb
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListService\bin\Debug\ToDoList.pdb
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListService\obj\Debug\ToDoListService.csprojResolveAssemblyReference.cache
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListService\obj\Debug\ToDoListService.dll
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListService\obj\Debug\ToDoListService.pdb

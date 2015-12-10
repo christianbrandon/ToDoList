@@ -29,5 +29,17 @@ namespace ToDoListWCF
             var toDoList = Service.GetToDoListById(id);
             return toDoList;
         }
+
+        public bool AddToDoList(ToDo toDoList)
+        {
+            Service.AddToDoList(toDoList);
+            return true;
+        }
+
+        public bool RemoveToDoList(string id)
+        {
+            Service.RemoveToDoList(id);
+            return true;
+        }
     }
 }

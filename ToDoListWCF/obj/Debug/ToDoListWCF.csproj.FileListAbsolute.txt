@@ -10,3 +10,15 @@ C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoListWCF\bin\ToDoListRepository.dl
 C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoListWCF\bin\ToDoList.dll
 C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoListWCF\bin\ToDoListRepository.pdb
 C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoListWCF\bin\ToDoList.pdb
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\bin\ToDoListWCF.dll.config
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\bin\ToDoListWCF.dll
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\bin\ToDoListWCF.pdb
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\bin\ToDoList.dll
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\bin\ToDoListService.dll
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\bin\ToDoListRepository.dll
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\bin\ToDoListService.pdb
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\bin\ToDoList.pdb
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\bin\ToDoListRepository.pdb
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\obj\Debug\ToDoListWCF.csprojResolveAssemblyReference.cache
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\obj\Debug\ToDoListWCF.dll
+C:\Users\Alexej\Documents\GitHub\todolist\ToDoListWCF\obj\Debug\ToDoListWCF.pdb
