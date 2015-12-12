@@ -39,20 +39,5 @@ namespace ToDoListService
             var toDoList = repository.GetToDoListByName(name);
             return toDoList;
         }
-
-        public static bool AddToDoList(ToDo toDoList)
-        {
-            // TODO add error checks, based on result return bool value. Convert json time to .net datetime datatype.
-            repository.AddToDo(toDoList);
-            return true;
-        }
-
-        public static bool RemoveToDoList(string id)
-        {
-            // TODO add error checks, based on result return bool value. When trying to invoke spits out Method not allowed.
-            int idParsed = int.Parse(id);
-            repository.DeleteToDoList(idParsed);
-            return true;
-        }
     }
 }

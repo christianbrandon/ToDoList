@@ -3,8 +3,3 @@ C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
 C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
 C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoList\obj\Debug\ToDoList.dll
 C:\Users\Alexej\Desktop\DoneRight\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
-C:\Users\Alexej\Documents\GitHub\todolist\ToDoList\bin\Debug\ToDoList.dll
-C:\Users\Alexej\Documents\GitHub\todolist\ToDoList\bin\Debug\ToDoList.pdb
-C:\Users\Alexej\Documents\GitHub\todolist\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
-C:\Users\Alexej\Documents\GitHub\todolist\ToDoList\obj\Debug\ToDoList.dll
-C:\Users\Alexej\Documents\GitHub\todolist\ToDoList\obj\Debug\ToDoList.pdb
