@@ -1,5 +1,0 @@
-C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoListConsole\bin\Debug\ToDoListConsole.exe.config
-C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoListConsole\bin\Debug\ToDoListConsole.exe
-C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoListConsole\bin\Debug\ToDoListConsole.pdb
-C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoListConsole\obj\Debug\ToDoListConsole.exe
-C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoListConsole\obj\Debug\ToDoListConsole.pdb
