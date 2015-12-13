@@ -8,7 +8,7 @@ using System.Text;
 using ToDoList;
 using ToDoListService;
 
-namespace ToDoListWCF
+namespace WcfService
 {
     public class ToDoListWCF : IToDoListWCF
     {

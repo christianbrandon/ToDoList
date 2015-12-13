@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListService", "ToDoListService\ToDoListService.csproj", "{E3A20697-06CE-48EC-871B-6495D90F156B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListWCF", "ToDoListWCF\ToDoListWCF.csproj", "{38D9E236-629D-4B05-BBE9-55D3228851FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService", "ToDoListWCF\WcfService.csproj", "{38D9E236-629D-4B05-BBE9-55D3228851FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListConsole", "ToDoListConsole\ToDoListConsole.csproj", "{54333CA1-4AD8-4CA1-B9B4-5FCC18A20742}"
 EndProject

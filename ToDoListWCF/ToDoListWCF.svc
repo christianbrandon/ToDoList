@@ -1,1 +1,1 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="ToDoListWCF.ToDoListWCF" CodeBehind="ToDoListWCF.svc.cs" %>
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfService.ToDoListWCF" CodeBehind="ToDoListWCF.svc.cs" %>

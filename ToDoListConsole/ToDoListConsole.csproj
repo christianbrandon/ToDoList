@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ToDoListWCF\ToDoListWCF.csproj">
+    <ProjectReference Include="..\ToDoListWCF\WcfService.csproj">
       <Project>{38d9e236-629d-4b05-bbe9-55d3228851fe}</Project>
-      <Name>ToDoListWCF</Name>
+      <Name>WcfService</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
