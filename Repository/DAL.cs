@@ -189,9 +189,8 @@ namespace Repository
                     command.Connection.Open();
 
                     SqlDataReader reader = command.ExecuteReader();
-
+                    reader.Read();
                     ToDo toDo = new ToDo();
-
                     toDo.Id = reader.GetInt32(reader.GetOrdinal("ID"));
                     toDo.Description = reader.GetString(reader.GetOrdinal("Description"));
                     toDo.Name = reader.GetString(reader.GetOrdinal("Name"));
@@ -199,8 +198,7 @@ namespace Repository
                     toDo.CreatedDate = reader.GetDateTime(reader.GetOrdinal("CreatedDate"));
                     toDo.EstimationTime = reader.GetInt32(reader.GetOrdinal("EstimationTime"));
                     toDo.Finnished = reader.GetBoolean(reader.GetOrdinal("Finnished"));
-                    toDoList.Add(toDo);
-                    
+
                     command.Connection.Close();
                     return toDo;
                 }

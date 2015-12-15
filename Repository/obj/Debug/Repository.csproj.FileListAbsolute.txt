@@ -1,0 +1,7 @@
+C:\Users\Alexej\Documents\GitHub\ToDoList\Repository\bin\Debug\Repository.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\Repository\bin\Debug\Repository.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\Repository\bin\Debug\ToDoList.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\Repository\bin\Debug\ToDoList.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Alexej\Documents\GitHub\ToDoList\Repository\obj\Debug\Repository.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\Repository\obj\Debug\Repository.pdb

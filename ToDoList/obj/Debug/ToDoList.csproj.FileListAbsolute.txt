@@ -1,0 +1,4 @@
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoList\bin\Debug\ToDoList.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoList\obj\Debug\ToDoList.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoList\obj\Debug\ToDoList.pdb

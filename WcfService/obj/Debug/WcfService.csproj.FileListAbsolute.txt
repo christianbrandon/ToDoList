@@ -1,0 +1,10 @@
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\bin\WcfService.dll.config
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\bin\WcfService.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\bin\WcfService.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\bin\Repository.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\bin\ToDoList.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\bin\Repository.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\bin\ToDoList.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\obj\Debug\WcfService.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\WcfService\obj\Debug\WcfService.pdb

@@ -1,0 +1,12 @@
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\bin\Debug\ToDoHost.exe.config
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\bin\Debug\ToDoHost.exe
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\bin\Debug\ToDoHost.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\bin\Debug\ToDoList.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\bin\Debug\WcfService.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\bin\Debug\Repository.dll
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\bin\Debug\ToDoList.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\bin\Debug\WcfService.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\bin\Debug\Repository.pdb
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\obj\Debug\ToDoHost.csprojResolveAssemblyReference.cache
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\obj\Debug\ToDoHost.exe
+C:\Users\Alexej\Documents\GitHub\ToDoList\ToDoHost\obj\Debug\ToDoHost.pdb
